@@ -5,7 +5,7 @@ Scrape Internshala's internships, jobs, and fresher-job boards: title, company, 
 **Run it on Apify:** [apify.com/themineworks/internshala-jobs-scraper](https://apify.com/themineworks/internshala-jobs-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/internshala-jobs-scraper](https://themineworks.com/actors/internshala-jobs-scraper/)
 
-**Price:** $2.00 per 1,000 listings on Apify's free plan, down to $1.20 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $1.20 per 1,000 listings on Apify's higher plans ($2.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -164,7 +164,7 @@ Location, work from home, part time, stipend and duration. They are applied by I
 
 ### How much does the Internshala Scraper cost?
 
-$2.00 per 1,000 listings on Apify's free plan, down to $1.20 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
+From $1.20 per 1,000 listings on Apify's higher plans ($2.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
 
 ### Can I export the results to CSV or Excel?
 
